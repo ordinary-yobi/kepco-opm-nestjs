@@ -1,4 +1,4 @@
-[![Publish package](https://github.com/ordinary-yobi/template-npm-package-nestjs/actions/workflows/workflows.yml/badge.svg)](https://github.com/ordinary-yobi/template-npm-package-nestjs/actions/workflows/workflows.yml)
+[![Publish package](https://github.com/ordinary-yobi/kepco-opm-nestjs/actions/workflows/workflows.yml/badge.svg)](https://github.com/ordinary-yobi/kepco-opm-nestjs/actions/workflows/workflows.yml)
 
 # Introduction
 
