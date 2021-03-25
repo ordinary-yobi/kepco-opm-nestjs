@@ -1,5 +1,5 @@
 {
-  "name": "@ordinary-yobi/kepco-opm.nestjs",
+  "name": "@ordinary-yobi/kepco-opm-nestjs",
   "version": "0.0.1",
   "description": "Github Packages npm template for NestJS modules",
   "contributors": [
@@ -31,9 +31,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ordinary-yobi/kepco-opm.nestjs.git"
+    "url": "git@github.com:ordinary-yobi/kepco-opm-nestjs.git"
   },
-  "bugs": "https://github.com/ordinary-yobi/kepco-opm.nestjs.git",
+  "bugs": "https://github.com/ordinary-yobi/kepco-opm-nestjs.git",
   "peerDependencies": {
     "@nestjs/common": "^7.4.2"
   },
